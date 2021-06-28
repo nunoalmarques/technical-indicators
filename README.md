@@ -1,6 +1,6 @@
 # Squale technical indicators
 
-Open source Java library based on [Ta4j](https://github.com/ta4j/ta4j). It provides the basic components for creation, evaluation and execution of trading strategies.
+Open source Java library based on [Ta4j](https://github.com/ta4j/ta4j). 
 
 ---
 
